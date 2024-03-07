@@ -1,0 +1,7 @@
+{
+  "ninjas": [
+    { "id": 1, "weapon": "axe", "difficulty": "high" },
+    { "id": 2, "weapon": "sword", "difficulty": "medium" },
+    { "id": 1, "weapon": "bow", "difficulty": "low" }
+  ]
+}
